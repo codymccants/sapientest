@@ -17,7 +17,7 @@ namespace FileExplorerProject
         private string database;
         private string uid;
         private string password;
-
+        private string test;
         //Constructor
         public void DBConnect()
         {
